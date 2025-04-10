@@ -1,6 +1,6 @@
 # DeReLoS
 
-The codes and pre-trained models are given for chest X-ray dataset The link for the dataset is given in the paper. We have also uploaded 100 test samples with their label in this repository.
+The codes and pre-trained models are given for chest X-ray dataset The link for the dataset is given in the paper. We have also uploaded 100 test samples with their labels in the test_data folder of this repository.
 
 The pre-trained models are in 'trained_models' folder.
 
